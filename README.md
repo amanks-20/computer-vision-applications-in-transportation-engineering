@@ -7,5 +7,5 @@ This repository contains all assignments associated with the project Computer Vi
 - Used OpenCV for processing the images and built Custom Trackbars for manipulating the different attributes of the images.
 - Utilized OpenCV to detect and track moving motor vehicles in different videos within a given Region of Interest (ROI).
 
-### Name : Aman Kumar Singh
-### Roll No : 200100
+#### Name : Aman Kumar Singh
+#### Roll No : 200100
