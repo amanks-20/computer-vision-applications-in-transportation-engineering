@@ -6,6 +6,7 @@ This repository contains all assignments associated with the project Computer Vi
 ##### Roll No : 200100
 
 
+#### SoCE Summer Project'22
 #### Description
 - Implemented the logistic regression model from scratch in order to perform binary classification between the crack and non-crack.
 - Evaluated the accuracy by using the F1 score of training, validation, and test dataset, plotted relation between loss and epotchs.
